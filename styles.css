@@ -14,9 +14,10 @@
 
 
 .footer {
-  position: all;
+  position: absolute;
   margin-left: 30%;
-  bottom: 0;  
+
+  bottom: 10px;  
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 20px;
@@ -30,7 +31,7 @@
 }
 
 .home-img2{
-  max-height:400px;
+  max-height:500px;
   max-width:100%;
   margin-bottom: 20px;
 }
